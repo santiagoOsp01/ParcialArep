@@ -2,6 +2,7 @@
 
 #servidor fachada
 se implemento el servidor fachada pero no funcionan las peticiones solo trae el formulario se implemento en el puerto 36000
+![image](https://github.com/santiagoOsp01/ParcialArep/assets/111186366/a8a12f88-4966-435d-b28e-cef0709b5b96)
 
 #servidor calculadora 
 se implemento el servidor pero se implemnto mal la calculadora ya que esta devuelve valores con funciones lambda que toca ingresar
